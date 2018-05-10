@@ -1,0 +1,10 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.6/css/bootstrap.min.css';
+
+.logout{
+    font-size: 20px;
+    text-decoration: none !important;
+}
+
+.logout span{
+    font-size: 15px;
+}
